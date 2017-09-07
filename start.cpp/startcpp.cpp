@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
 
 int main()
 {
+	printf("Start Console Project\n");
+	system("pause");
     return 0;
 }
 
