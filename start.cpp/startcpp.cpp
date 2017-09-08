@@ -8,6 +8,7 @@
 int main()
 {
 	setlocale(LC_ALL, "rus");
+	// anything
 	printf("Start Console Project\n");
 	system("pause");
     return 0;
